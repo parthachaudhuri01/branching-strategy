@@ -1,1 +1,5 @@
 # branching-strategy
+
+# This is develop comment 1
+# This is develop comment 2
+# This is release comment 1 
